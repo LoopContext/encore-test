@@ -2,4 +2,4 @@ module encore.app
 
 go 1.18
 
-require encore.dev v1.37.0 // indirect
+require github.com/haguro/elevenlabs-go v0.2.4
